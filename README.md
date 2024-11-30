@@ -3,7 +3,7 @@ A web application aimed to simplify, organise and fast track communication betwe
 
 This project was to learn, explore and develop skills regarding new full-stack technologies such as Next.js 14, TypeScript, LiveBlocks, Convex, Shadcn-UI and Clerk Authentication. 
 
-![]()
+![](https://github.com/yuhaislost/boardly-collaboration-app/blob/master/github_resources/product_images/image1.png)
 
 ## Technologies Used
 
@@ -17,6 +17,6 @@ This project was to learn, explore and develop skills regarding new full-stack t
 
 ## Deployment
 
-![]()
+![](https://github.com/yuhaislost/boardly-collaboration-app/blob/master/github_resources/product_images/image2.png)
 
 Active Site: [boardly-opal.vercel.app](https://boardly-opal.vercel.app/)
