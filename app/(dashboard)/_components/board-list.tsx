@@ -5,6 +5,7 @@ import { EmptyFavourites } from "./empty-favourites";
 import { EmptyBoards } from "./empty-boards";
 import { useQuery } from "convex/react";
 import { api } from "@/convex/_generated/api";
+
 import { BoardCard } from "./board-card";
 import { NewBoardButton } from "./new-board-button";
 
